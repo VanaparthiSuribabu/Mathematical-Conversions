@@ -1,0 +1,38 @@
+
+
+<div class="main">
+   <h2>
+  Mathematical conversions</h2>
+  <h4>Numbering System Conversions</h4>
+  <div>
+  <div><input type="number" [(ngModel)]="decimal2"  min="1" class="input">    Decimal to <span>{{decimal2|decimalbinary}}            </span>       Binary</div><br>
+ <div><input type="number" [(ngModel)]="decimal3"  min="1" class="input">  Decimal to  <span> {{decimal3|decimaloctal}}               </span>      octal</div><br>
+ <div><input type="number" [(ngModel)]="decimal1"  min="1" class="input">   Decimal to <span> {{decimal1|decimalHexa}}               </span>      Hexa</div><br>
+</div>
+<h4>Mathmatical Operations</h4>
+<div>
+       <div><input type="number" [(ngModel)]="root1"  min="1" class="input" > number to   <span> {{root1|power}}                     </span>      square</div><br>
+         <div><input type="number" [(ngModel)]="root2"  min="1"  class="input">  number to  <span> {{root2|sqrt}}                    </span>     squareroot</div><br>  
+         <div> <input type="number" [(ngModel)]="root3"  min="1"  class="input"> number to   <span> {{root3|cuberoot}}                </span>    cuberoot</div><br> 
+           <div> <input type="number" [(ngModel)]="root4"  min="1"  class="input"> number to   <span> {{root4|cube}}                 </span>     cube</div> 
+    
+</div>
+  <h4>Memory Conversions</h4>
+  <div>
+       <div> <input type="number" [(ngModel)]="mem1"  min="1" class="input">  kb to   <span>{{mem1|mb}}</span>    mb</div><br> 
+         <div><input type="number" [(ngModel)]="mem2"  min="1" class="input">  kb to   <span>{{mem2|gb}}</span>    gb</div><br> 
+         <div> <input type="number" [(ngModel)]="mem3"  min="1" class="input"> kb to    <span>{{mem3|tb}}</span>    tb</div>  
+    
+</div>
+<h4>Time Conversions</h4>
+ <div>
+       
+       <div><input type="number" [(ngModel)]="time1"  min="1" class="input">  year to   <span>{{time1|months}}  </span>months</div><br>  
+        <div><input type="number" [(ngModel)]="time2"  min="1" class="input"> year to   <span> {{time2|days}}</span>  days</div><br>  
+     <div> <input type="number" [(ngModel)]="time3"  min="1" class="input">  year to  <span>{{time3|hours}}</span>  hours</div><br>  
+      <div> <input type="number" [(ngModel)]="time4"  min="1" class="input">  year to  <span> {{time4|minutes}} </span>minutes</div><br>  
+   <div> <input type="number" [(ngModel)]="time5"  min="1"  class="input">  year to  <span> {{time5|sec}}</span> seconds
+   </div> 
+ 
+</div>
+

@@ -1,0 +1,37 @@
+.input{
+  height: 25px;
+    width: 100px;
+    border: 1px solid darkgray;
+    border-radius: 2px;
+    background-color: cornsilk;
+}
+span{
+  color:blueviolet;
+  border-bottom: 1px solid black;
+}
+h2{
+  color:cadetblue;
+  text-transform: uppercase;
+  margin-left:-40px;
+      color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+  color:cadetblue;
+}
+.main{
+  margin-left: 40%;
+}
+@media only screen and (max-width:300px) {
+   /* For mobile phones:  */
+ .input{
+    width:50px;
+  }
+  .main{
+  margin-left: 10%;
+}
+}
+
+   
+     
+ 
