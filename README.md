@@ -35,7 +35,7 @@ Download the mathematical-conversions project into your project and run the appl
 
 ## Output Format: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/demo-img/demo-img.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/demo-img/demo-img.PNG">
 
 **To preview the demo of this Component please [Click here](https://stackblitz.com/edit/angular-h2kpce-wvutcf?embed=1&file=src/app/mathconversion/mathconversion.component.css&hideNavigation=1&view=preview)**
 
