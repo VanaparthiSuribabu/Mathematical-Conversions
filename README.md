@@ -44,11 +44,12 @@ Download the mathematical-conversions folder into your project and run the appli
 Custom pipes use transform method for pipes execution.
 ### Eg: 
 ```
-transform(value: any,from:any,to:any): any {  
-  return this.tempConv(value,from,to);
-}
+  transform(value: any, args?: any): any {
+      if(value!=null){
+    return parseInt(value,10).toString(16);
+       }
+
 ```
-  'tempConv' is a method which is having the entire logic belongs to the converter.
 
 ## Input
 Inputs for the component is numerical value. 
