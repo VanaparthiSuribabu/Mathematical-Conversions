@@ -1,6 +1,8 @@
 
 # Mathematical Conversions
 
+In this, pipes are used to convert from one unit to another unit. For each converter, I have created one pipe. The pipes are cube pipe, square pipe, sqrt pipe , mb pipe,gb pipe,tb pipe,decimalbinary pipe,month pipe ,year pipe decimaloctal pipe and decimalhexa pipe. This is used to convert  mathematical numbers to cube,sqrt,cuberoot,square of that number ,years to months,hours,minutes,days,seconds ,memory units to mb,gb,tb and decimal to binary,octal,hexa decimal .
+
 ## Using the complete angular project
 
 Download the mathematical-conversions folder into your project and run the application.
@@ -22,9 +24,6 @@ Download the mathematical-conversions folder into your project and run the appli
 - memory | memory conversions: "kb":"mb"
 - time | time conversions: "year":"months"
 - numbering system | numbering system conversions: "decimal":"octal"
-
-## Description
-In this, pipes are used to convert from one unit to another unit. For each converter, I have created one pipe. The pipes are cube pipe, square pipe, sqrt pipe , mb pipe,gb pipe,tb pipe,decimalbinary pipe,month pipe ,year pipe decimaloctal pipe and decimalhexa pipe. This is used to convert  mathematical numbers to cube,sqrt,cuberoot,square of that number ,years to months,hours,minutes,days,seconds ,memory units to mb,gb,tb and decimal to binary,octal,hexa decimal .  
 
 <table>
   <tr><th>Pipe Name</th><th>Convert From(unit)</th><th>Convert To(units)</th><th>Description</th><th>Example</th></tr>
