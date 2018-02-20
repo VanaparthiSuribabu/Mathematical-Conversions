@@ -27,10 +27,10 @@ Download the mathematical-conversions folder into your project and run the appli
 
 <table>
   <tr><th>Pipe Name</th><th>Convert From(unit)</th><th>Convert To(units)</th><th>Description</th><th>Example</th></tr>
-  <tr><td>number Pipe</td><td>number</td><td>sqrt<br>square<br>cube<br>cuberoot<td>'number pipe' converts one number to its other formatts, number to the sqrt etc.</td><td>Example For Inputs are:<br>number:2,3,4<br>square:4,9,16,..<br>and etc</td></tr>
+  <tr><td>number Pipe</td><td>number</td><td>sqrt<br>square<br>cube<br>cuberoot<td>'number pipe' converts one number to its other formats, number to the sqrt etc.</td><td>Example For Inputs are:<br>number:2,3,4<br>square:4,9,16,..<br>and etc</td></tr>
   <tr><td>memory Pipe</td><td>memory unit</td><td>kb/mb<br>kb/gb<br>kb/tb<br><td>'memory pipe' converts the input values from kb/mb and to all other units like gb and tb. </td><td>Examples are:<br>1024<br>mb:1</td></tr>
   <tr><td>time pipe</td><td>year</td><td>month<br>days<br>hours<br>minutes<br>seconds</td><td>'time pipe' converts from year to month, days,minutes,hours and seconds .</td>><td>Examples are:<br>Any digits 1<br>Months:12</td></tr>
-  <tr><td>numbersystem conversions pipe</td><td>decimal number</td><td><br>Binary<br>Octal<br>Hexadecimal><td>'number system conversion pipe' converts from decimal to binary,octal and hexadecimal.</td>><td>Examples are:<br>Any decimal values for all units like 10<br>Binary:1010</td></tr>
+  <tr><td>numbersystem conversions pipe</td><td>decimal number</td><td><br>Binary<br>Octal<br>Hexadecimal<td>'number system conversion pipe' converts from decimal to binary,octal and hexadecimal.</td>><td>Examples are:<br>Any decimal values for all units like 10<br>Binary:1010</td></tr>
 </table>
 
 ## Output Format: 
