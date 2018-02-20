@@ -35,9 +35,9 @@ Download the mathematical-conversions project into your project and run the appl
 
 ## Output Format: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/Screenshot (13).png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/demo-img/demo-img.png">
 
-**To preview the demo of this Component please [Click here](https://stackblitz.com/edit/angular-uoz1z7-ls8t7m?embed=1&file=src/app/converters/converters.component.html&hideNavigation=1&view=preview)**
+**To preview the demo of this Component please [Click here](https://stackblitz.com/edit/angular-h2kpce-wvutcf?embed=1&file=src/app/mathconversion/mathconversion.component.css&hideNavigation=1&view=preview)**
 
 
 ### For creating pipes
