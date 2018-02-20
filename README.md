@@ -5,7 +5,7 @@ In this, pipes are used to convert from one unit to another unit. For each conve
 
 ## Using the complete angular project
 
-Download the mathematical-conversions project into your project and run the application.
+Download the mathematical-conversions component into your project and run the application.
 
 ### Installing
 
