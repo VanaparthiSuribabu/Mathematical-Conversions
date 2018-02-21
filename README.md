@@ -19,7 +19,7 @@ In this, pipes are used to convert from one unit to another unit. For each conve
 
 ## Output Format: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/demo-img/newimg2.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/demo-img/Screenshot (13).png">
 
 **To preview the demo of this Component please [Click here](https://stackblitz.com/edit/angular-h2kpce-wvutcf?embed=1&file=src/app/mathconversion/mathconversion.component.css&hideNavigation=1&view=preview)**
 
