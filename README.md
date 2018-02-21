@@ -3,22 +3,6 @@
 
 In this, pipes are used to convert from one unit to another unit. For each converter, I have created one pipe. The pipes are cube pipe, square pipe, sqrt pipe ,cuberoot, mb pipe,gb pipe,tb pipe,months pipe ,days pipe,hours pipe, minutes pipe, seconds pipe,decimalbinary pipe,decimaloctal pipe and decimalhexa pipe. This is used to convert  mathematical numbers to cube,sqrt,cuberoot,square of that number ,years to months,hours,minutes,days,seconds ,memory units to mb,gb,tb and decimal to binary,octal,hexa decimal .
 
-## Using the complete angular project
-
-Download the mathematical-conversions component into your project and run the application.
-
-### Installing
-
-```
-> npm install
-```
-
-### Run server
-
-```
-> ng serve
-``` 
-
 ## How To Use
 - number | mathmatical operations: "Number":"Cube"
 - memory | memory conversions: "kb":"mb"
@@ -39,17 +23,21 @@ Download the mathematical-conversions component into your project and run the ap
 
 **To preview the demo of this Component please [Click here](https://stackblitz.com/edit/angular-h2kpce-wvutcf?embed=1&file=src/app/mathconversion/mathconversion.component.css&hideNavigation=1&view=preview)**
 
+## Using the complete angular project
 
-### For creating pipes
-Custom pipes use transform method for pipes execution.
-### Eg: 
-```
-  transform(value: any, args?: any): any {
-      if(value!=null){
-    return parseInt(value,10).toString(16);
-       }
+Download the mathematical-conversions component into your project and run the application.
+
+### Installing
 
 ```
+> npm install
+```
+
+### Run server
+
+```
+> ng serve
+``` 
 
 ## Input
 Inputs for the component is numerical value. 
